@@ -3,6 +3,11 @@
 
 # Log file
 *.log
+DB_DRIVER_CLASS=com.mysql.jdbc.Driver
+DB_URL=jdbc:mysql://127.0.0.1:3307/SAM
+DB_USERNAME=root
+DB_PASSWORD=root
+
 
 # BlueJ files
 *.ctxt
